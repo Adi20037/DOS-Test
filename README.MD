@@ -1,4 +1,4 @@
-# <b>DOSTEST</b> 
+# <b>DOSTEST created by Aditya Prakash, Ravinth Yadav, and Gagan B C</b> 
 <h2>Http DOSTEST 👑</h2><br>
 
 #
